@@ -14,8 +14,21 @@ From this directory run:
 
 That's it!
 
+# Parinfer
+
+This setup uses parinfer to infer where closing parenthesis should go.
+
+More info: https://shaunlebron.github.io/parinfer/
+
 # Useful key combos
 
+## Navigating files
+
+Find a file (recursive):
+
+    C-c p f
+
+## Random stuff
 Enable rainbow parenthesis:
 
     M-x rainbow-delimiters-mode
